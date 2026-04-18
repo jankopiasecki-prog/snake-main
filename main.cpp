@@ -58,6 +58,6 @@ int main() {
     }
 
     DisplayMap(map, map_width, map_height);
-
+    cout << "Janusz Piasecki" << endl;
     return 0;
 }
